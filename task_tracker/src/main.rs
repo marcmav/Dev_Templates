@@ -1,4 +1,0 @@
-mod commands;
-
-fn main() {
-}
