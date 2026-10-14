@@ -43,7 +43,7 @@ Follow these rules:
 7. PROGRESSIVE DIFFICULTY
    - Start with basic questions.
    - Gradually introduce more difficult and practical problems.
-   - Eventually give me questions that require me to apply multiple concepts from [TOPIC].
+   - Eventually give me questions that require me to apply multiple concepts from the same topic.
 
 8. INTERACTIVE LEARNING
    - Do not dump the entire course into one response.
